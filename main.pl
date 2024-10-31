@@ -16,6 +16,13 @@ is_a(apple, fruit).
 is_a(banana, fruit).
 is_a(cherry, fruit).
 
+is_a(gala_apple, apple).
+is_a(fuji_apple, apple).
+is_a(red_banana, banana).
+is_a(burro_banana, banana).
+is_a(sweet_cherry, cherry).
+is_a(sour_cherry, cherry).
+
 is_a(carrot, vegetable).
 is_a(potato, vegetable).
 is_a(cucumber, vegetable).
